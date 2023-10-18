@@ -4,7 +4,7 @@
 </div>
 
 <div id='main' align='center'>
-  ###О себе
+  ### О себе
 </div>
 
 <div id='footer' align='center'>
