@@ -3,9 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Bambyary&style=flat-square&color=blue" alt="Счётчик"/>
 </div>
 
-<div id='main' align='center'>
-  ### О себе
-</div>
+### О себе
 
 <div id='footer' align='center'>
   <a href='https://t.me/marinasorokina333'>
