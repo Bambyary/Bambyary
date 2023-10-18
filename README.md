@@ -1,4 +1,7 @@
-### Привет, меня зовут Марина! Я - начинающий frontend-разработчик.
+<div id='header' align='center' >
+  <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' width='100'>
+  <p>Привет, меня зовут Марина! Я - начинающий frontend-разработчик.</p>
+</div>
 
 <!--
 **Bambyary/Bambyary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
