@@ -5,8 +5,8 @@
 
 ### :woman_technologist: О себе
 
---- Привет, меня зовут Марина :wave: 
---- Я - начинающий frontend-разработчик. 
+Привет, меня зовут Марина :wave: 
+Я - начинающий frontend-разработчик. 
 
 <div id='footer' align='center'>
   <a href='https://t.me/marinasorokina333'>
