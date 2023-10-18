@@ -4,9 +4,10 @@
 </div>
 
 ### :woman_technologist: О себе
-
-Привет, меня зовут Марина :wave: 
-Я - начинающий frontend-разработчик. 
+<div id='about-me'>
+  <p>Привет, меня зовут Марина :wave:</p>
+  <p>Я - начинающий frontend-разработчик.</p>
+</div>
 
 <div id='footer' align='center'>
   <a href='https://t.me/marinasorokina333'>
