@@ -13,7 +13,7 @@
 
 ### Мой стек технологий :
 <div>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg' alt='HTML' >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg' alt='HTML' width='40' height='40' >
 </div>
 
 
