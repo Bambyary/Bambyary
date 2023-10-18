@@ -1,5 +1,5 @@
 <div id='header' align='center' >
-  <img src='[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtKiyAo5l4C3nXagrhqzuQoMfX-GwmIAU7AA&usqp=CAU)' width='100'>
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzn-XxOwlVsG1zptgJfVhG3Dep_NtTljp_lwjNuACRXM-y5c7eUQ_pRoVuuoopbC6jF5A&usqp=CAU' width='100'>
   <p>Привет, меня зовут Марина! Я - начинающий frontend-разработчик.</p>
 </div>
 
