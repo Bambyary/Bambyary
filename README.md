@@ -4,7 +4,7 @@
 <div id='counter' align='center'>
   <img align='center' src="https://komarev.com/ghpvc/?username=Bambyary&style=flat-square&color=blue" alt="Счётчик"/>
 </div>
-<div id='links' align='center'>
+<div id='links' align='center' style='padding-bottom: 20'>
   <a href='https://t.me/marinasorokina333'>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   <a/>
@@ -14,7 +14,7 @@
 </div>
 
 ### :woman_technologist: О себе
-<div id='about-me' style='padding-bottom: 20px;' >
+<div id='about-me' style='padding-bottom: 20' >
   <p>Привет, меня зовут Марина :wave: и я - начинающий frontend-разработчик :woman_student: </p>
   <p>Живу в городе Самара :cityscape:  Закончила курс на платформе Яндекс.Практикум, благодаря чему вклюбилась в веб-разработку! :sparkling_heart:  </p>
   <p>Почему именно веб-разработка? А потому что, мне нравится создавать новое и видеть результат своей работы.</p>
@@ -22,7 +22,7 @@
 </div>
 
 ### Мой стек технологий :
-<div id='technology' style='padding-bottom: 20px;'>
+<div id='technology' style='padding-bottom: 20'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg' alt='HTML' width='40' height='40' >
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg' alt='CSS' width='40' height='40' >
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg' alt='JavaScript' width='40' height='40' >
