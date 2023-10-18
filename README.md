@@ -1,7 +1,10 @@
 <div id='header' align='center' >
   <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2zaPBfQpAbVMHsv_FEcX68sc7SuIQd_pjsGENM1bk44SLlvh8MS0RSdQW6b-zcKrb_Ag&usqp=CAU' width='100'>
-  <p>Привет, меня зовут Марина! Я - начинающий frontend-разработчик.</p>
   <img src="https://komarev.com/ghpvc/?username=Bambyary&style=flat-square&color=blue" alt="Счётчик"/>
+</div>
+
+<div id='main' align='center'>
+  ###О себе
 </div>
 
 <div id='footer' align='center'>
