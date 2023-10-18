@@ -14,6 +14,15 @@
 ### Мой стек технологий :
 <div>
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg' alt='HTML' width='40' height='40' >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg' alt='CSS' width='40' height='40' >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg' alt='JavaScript' width='40' height='40' >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg' alt='Figma' width='40' height='40' >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg' alt='React' width='40' height='40' >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg' alt='Node.js' width='40' height='40' >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original.svg' alt='Express' width='40' height='40' >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg' alt='Mongo' width='40' height='40' >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg' alt='Git' width='40' height='40' >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg' alt='GitHab' width='40' height='40' >
 </div>
 
 
