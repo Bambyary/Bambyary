@@ -3,7 +3,10 @@
 <!--   <img src="https://komarev.com/ghpvc/?username=Bambyary&style=flat-square&color=blue" alt="Счётчик"/> -->
 </div>
 
-### О себе
+### :woman_technologist: О себе
+
+Привет, меня зовут Марина <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+Я - начинающий frontend-разработчик. 
 
 <div id='footer' align='center'>
   <a href='https://t.me/marinasorokina333'>
