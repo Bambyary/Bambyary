@@ -1,5 +1,5 @@
 <div id='header' align='center' >
-  <img src='[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzn-XxOwlVsG1zptgJfVhG3Dep_NtTljp_lwjNuACRXM-y5c7eUQ_pRoVuuoopbC6jF5A&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHKpXFwGnoqIswrn5JEZCaOJkAppeiXZhwixLiArGjXeBSu-rin9QQ4r0pZtM7TpnJqQ&usqp=CAU)' width='100'>
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqv6hFiw-p86LpNNH4X541cWwDqeUNwfwEd55sCYTrVh6IK-bLd2kuvDJR5DwSdiXoco4&usqp=CAU' width='100'>
   <p>Привет, меня зовут Марина! Я - начинающий frontend-разработчик.</p>
 </div>
 
