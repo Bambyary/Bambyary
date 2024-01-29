@@ -27,6 +27,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SorokinaMarina)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">Вы можете связаться со мной</p>
 <div id='links' align='center' style='padding-bottom: 20' background="#C5D7EA">
   <a href='https://t.me/marinasorokina333'>
