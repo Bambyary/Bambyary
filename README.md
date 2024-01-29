@@ -1,14 +1,4 @@
-
-<div id='links' align='center' style='padding-bottom: 20' background="#C5D7EA">
-  <a href='https://t.me/marinasorokina333'>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  <a/>
-  <a href='https://vk.com/ary333'>
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-  </a>
-</div>
-
-<h1 align="center">Привет, меня зовут Марина :wave: Я - junior frontend-разработчик :woman_student:<h1/>
+<h1 style="background-color: #C5D7EA; width: 100%; height: 20%">Привет, меня зовут Марина :wave: Я - junior frontend-разработчик :woman_student:<h1/>
 <div id='about-me' style='padding-bottom: 20' align="left" >
   <p>Закончила курс на платформе Яндекс.Практикум и готова продолжить свой путь в веб-разработке! 🙌 </p>
   <p>Почему именно веб-разработка? А потому что, мне нравится создавать новое и видеть результат своей работы.</p>
@@ -27,5 +17,14 @@
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg' alt='Mongo' width='40' height='40' >
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg' alt='Git' width='40' height='40' >
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg' alt='GitHab' width='40' height='40' >
+</div>
+
+<div id='links' align='center' style='padding-bottom: 20' background="#C5D7EA">
+  <a href='https://t.me/marinasorokina333'>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  <a/>
+  <a href='https://vk.com/ary333'>
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
 </div>
 
