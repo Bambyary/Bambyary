@@ -1,4 +1,4 @@
-**Привет, меня зовут Марина** 👋
+<p font-style="bold">Привет, меня зовут Марина 👋</p>
 
 Junior frontend-developer
 ***
