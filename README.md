@@ -1,7 +1,4 @@
-<div id='header' align='center' >
-  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2zaPBfQpAbVMHsv_FEcX68sc7SuIQd_pjsGENM1bk44SLlvh8MS0RSdQW6b-zcKrb_Ag&usqp=CAU' width='100'>
-</div>
-</div>
+</div background="#C5D7EA">
 <div id='links' align='center' style='padding-bottom: 20'>
   <a href='https://t.me/marinasorokina333'>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -11,10 +8,9 @@
   </a>
 </div>
 
-### :woman_technologist: О себе
+<h1 align="center">Привет, меня зовут Марина :wave: Я - junior frontend-разработчик :woman_student:<h1/>
 <div id='about-me' style='padding-bottom: 20' >
-  <p>Привет, меня зовут Марина :wave: и я - начинающий frontend-разработчик :woman_student: </p>
-  <p>Живу в городе Самара :cityscape:  Закончила курс на платформе Яндекс.Практикум, благодаря чему вклюбилась в веб-разработку! :sparkling_heart:  </p>
+  <p>Закончила курс на платформе Яндекс.Практикум и готова продолжить свой путь в веб-разработке! 🙌 </p>
   <p>Почему именно веб-разработка? А потому что, мне нравится создавать новое и видеть результат своей работы.</p>
   <p>Моя цель - научиться создавать интересные и полезные продукты.</p>  
 </div>
