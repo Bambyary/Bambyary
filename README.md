@@ -1,4 +1,4 @@
-<p style="font-weight: bold; text-align: center;" >Привет, меня зовут Марина 👋</p>
+<h1 align="center" >Привет, меня зовут Марина 👋</h1>
 
 Junior frontend-developer
 ***
