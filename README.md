@@ -1,5 +1,5 @@
-</div background="#C5D7EA">
-<div id='links' align='center' style='padding-bottom: 20'>
+
+<div id='links' align='center' style='padding-bottom: 20' background="#C5D7EA">
   <a href='https://t.me/marinasorokina333'>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   <a/>
