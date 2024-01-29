@@ -2,7 +2,6 @@
 
 <p align="center">Junior frontend-developer</p>
 
-***
 
 🌍  Проживаю в Самаре
 
