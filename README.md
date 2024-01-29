@@ -5,10 +5,11 @@ Junior frontend-developer
 
 🌍  Проживаю в Самаре
 
-Закончила курс на платформе Яндекс.Практикум в октябре 2023 года и твёрдо решила продолжать свой путь в веб-разработке 💪 На данный момент я продолжаю совершенствовать уже имеющиеся навыки и изучать новые технологии. 
+Закончила курс на платформе Яндекс.Практикум в октябре 2023 года и твёрдо решила продолжать свой путь в веб-разработке 💪 На данный момент продолжаю совершенствовать уже имеющиеся навыки и изучать новые технологии. 
 
-Мне нравится создавать что-то новое и полезное! 🌟
-Сейчас работаю в команде над проектом - "Платформа для создания и редактирования резюме".
+Мне нравится создавать что-то полезное! 🌟
+
+Сейчас я работаю в команде над проектом - "Платформа для создания и редактирования резюме".
 
 ### Мой Стек технологий
 
@@ -21,6 +22,7 @@ Junior frontend-developer
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
 
+<p align="center">Вы можете связаться со мной</p>
 <div id='links' align='center' style='padding-bottom: 20' background="#C5D7EA">
   <a href='https://t.me/marinasorokina333'>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
