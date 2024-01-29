@@ -1,5 +1,4 @@
-<strong align="center">Привет, меня зовут Марина 👋</strong>
-<p style="font-weight: bold; text-align: center;">Этот текст будет жирным и выровнен по центру</p>
+<p align="center">Привет, меня зовут Марина 👋</p>
 
 Junior frontend-developer
 ***
