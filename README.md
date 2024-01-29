@@ -1,6 +1,7 @@
 <h1 align="center" >Привет, меня зовут Марина 👋</h1>
 
 <p align="center">Junior frontend-developer</p>
+
 ***
 
 🌍  Проживаю в Самаре
