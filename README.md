@@ -1,6 +1,6 @@
 <img src="https://github.com/SorokinaMarina/SorokinaMarina/blob/main/header.png" alt="Приветствие">
 
-**Я Junior frontend-разработчик**
+<h2>Я - Junior frontend-разработчик</h2>
 
 
 
