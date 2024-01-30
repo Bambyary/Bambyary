@@ -1,5 +1,7 @@
 <img src="https://github.com/SorokinaMarina/SorokinaMarina/blob/main/header.png" alt="Приветствие">
 
+**Я Junior frontend-разработчик**
+
 
 
 🌍  Проживаю в Самаре
