@@ -1,4 +1,4 @@
-<img heiht="10px" src="https://github.com/SorokinaMarina/SorokinaMarina/blob/main/header.png" alt="Приветствие">
+<img src="https://github.com/SorokinaMarina/SorokinaMarina/blob/main/header.png" alt="Приветствие">
 
 
 
