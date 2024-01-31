@@ -41,10 +41,10 @@
 <h3 align="center">Вы можете связаться со мной</h3>
 <div id='links' align='center' style='padding-bottom: 20' background="#C5D7EA">
   <a href='https://t.me/marinasorokina333'>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   <a/>
   <a href='https://vk.com/ary333'>
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
 
